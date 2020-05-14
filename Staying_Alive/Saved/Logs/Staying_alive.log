@@ -1330,3 +1330,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.14-04.51.30:704][192]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Characters/AI/extra_health_zombie.extra_health_zombie
 [2020.05.14-04.51.35:547][535]BlueprintLog: New page: Compile extra_health_zombie
 [2020.05.14-04.51.35:841][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.05.14-06.05.28:709][936]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/Blueprints/Pickupables/ArmorObject.
+[2020.05.14-06.05.28:715][936]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/Blueprints/Pickupables/HealthObject.
+[2020.05.14-06.05.28:720][936]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/Blueprints/Pickupables/SpeedObject.
+[2020.05.14-06.05.28:726][936]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/Blueprints/Spawners/EnemyAISpawner.
