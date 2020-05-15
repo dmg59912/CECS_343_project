@@ -1,0 +1,676 @@
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Geometry/Meshes/CubeMaterial.uasset" 0
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Geometry/Meshes/TemplateFloor.uasset" 1
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 2
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 3
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 4
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 5
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 6
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 7
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPersonRun.uasset" 8
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 9
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 10
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 11
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 12
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 13
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 14
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 15
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 16
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 17
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 18
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 19
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 20
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 21
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 22
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 23
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 24
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 25
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 26
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 27
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 28
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 29
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 30
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 31
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/soldier_Skeleton.uasset" 32
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Dying.uasset" 33
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Falling_Back_Death.uasset" 34
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/hit_reaction.uasset" 35
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Jump_Up.uasset" 36
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/zombie__1__Skeleton.uasset" 37
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Zombie_Attack__1_.uasset" 38
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Zombie_Idle.uasset" 39
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/16_INDUSTRY_NIGHT_-_Fans_Whine_Buzz_-_Interior_Clanking.uasset" 40
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/bullet_sound.uasset" 41
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/foot_steps.uasset" 42
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/jump.uasset" 43
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/land_jump.uasset" 44
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/M4_Shots.uasset" 45
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/zombie_eating_player_flesh.uasset" 46
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/TopDownController.uasset" 47
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/impact_bullets_on_zombie.uasset" 48
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/Bloody_Nightmare_-_Horror_Impacts_-_Robotic_Scream.uasset" 49
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/StartSelect_UI_set34_mechanical_subtle_percussive_thick_bright_holdrelease.uasset" 50
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/StartSelect_UI_set3_pure_warm_simple_quick_tonal_deaction.uasset" 51
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Materials/menu.uasset" 52
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Main_Menu_HUD/main_menu_widg.uasset" 53
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Main_Menu_HUD/main_menu_hud.uasset" 54
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Main_Menu_HUD/top_down_menu.uasset" 55
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/top_down_menu.uasset" 56
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/mutant__1__Skeleton.uasset" 57
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Mutant_Walking.uasset" 58
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/mutant__1__Skeleton_AnimBlueprint.uasset" 59
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Mutant_Swiping.uasset" 60
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Mutant_Swiping_Montage.uasset" 61
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/CombatInteface.uasset" 62
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/AI_Blackboard.uasset" 63
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/Services/InAttackRange.uasset" 64
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/Tasks/ChasePlayer.uasset" 65
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/Tasks/GetPlayerLocation.uasset" 66
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/Tasks/MeleeAttack.uasset" 67
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/AI_BehaviorTree.uasset" 68
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/Zombie_AI.uasset" 69
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/idle_soldier.uasset" 70
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Shoot_Rifle.uasset" 71
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Walking__2_.uasset" 72
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/soldier_bs.uasset" 73
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" 74
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/soldier_movement.uasset" 75
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/fire_Shots_02_A.uasset" 76
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Body_ALB.uasset" 77
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Body_M_MSK.uasset" 78
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Body_NRM.uasset" 79
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Materials/RU74/M_RU74_Master.uasset" 80
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_ALB.uasset" 81
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_M_MSK.uasset" 82
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_NRM.uasset" 83
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Materials/Rifle/M_Rifle.uasset" 84
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_Carry_ALB.uasset" 85
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_Carry_M_MSK.uasset" 86
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_Carry_NRM.uasset" 87
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Materials/Rifle/M_Rifle_Carry.uasset" 88
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_Furniture_ALB.uasset" 89
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_Furniture_M_MSK.uasset" 90
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Rifle/T_Rifle_Furniture_NRM.uasset" 91
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Materials/Rifle/M_Rifle_Furniture.uasset" 92
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/Rifle/SK_Rifle_PhysicsAsset.uasset" 93
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/Rifle/SK_Rifle_Skeleton.uasset" 94
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/Rifle/SK_Rifle.uasset" 95
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Textures/T_Smoke_SubUV_2x2_ALB.uasset" 96
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Materials/M_Smoke_MASTER.uasset" 97
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 98
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 99
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Materials/M_Spark.uasset" 100
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Textures/T_Muzzle_Warp_FMP.uasset" 101
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Textures/T_Muzzleflash_01_ALB.uasset" 102
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Materials/M_Muzzleflash_MASTER.uasset" 103
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Materials/M_Muzzleflash_01.uasset" 104
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Textures/T_CleanSmoke_ALB.uasset" 105
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Textures/T_Detailed_and_Dense_FMP.uasset" 106
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Textures/T_Detailed_FMP.uasset" 107
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Materials/M_Smoke_FlowMap_MASTER.uasset" 108
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Materials/M_Smoke_FlowMap_01.uasset" 109
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Emitters/Rifle/P_Rifle_Muzzleflash.uasset" 110
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Ammunition/T_762x39_ALB.uasset" 111
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Ammunition/T_762x39_M_MSK.uasset" 112
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/Ammunition/T_762x39_NRM.uasset" 113
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Materials/Ammunition/M_762x39.uasset" 114
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/Ammunition/SM_762x39_Empty.uasset" 115
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Emitters/Rifle/P_Rifle_ShellEject.uasset" 116
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/rifle.uasset" 117
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" 118
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/pauseMenu.uasset" 119
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Player_HUD/HUD_Armor.uasset" 120
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Player_HUD/HUD_Heart.uasset" 121
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Player_HUD/Player_HUD.uasset" 122
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1001_Diffuse.uasset" 123
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1001_Glossiness.uasset" 124
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1001_Normal.uasset" 125
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1001_Specular.uasset" 126
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_body.uasset" 127
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1002_Diffuse.uasset" 128
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1002_Emissive.uasset" 129
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1002_Glossiness.uasset" 130
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1002_Normal.uasset" 131
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_1002_Specular.uasset" 132
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Ch15_body1.uasset" 133
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/soldier_PhysicsAsset.uasset" 134
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/soldier.uasset" 135
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/TopDownCharacter.uasset" 136
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/zombie_sound_1.uasset" 137
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/big_zombie_sound.uasset" 138
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Mutant_diffuse.uasset" 139
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Mutant_normal.uasset" 140
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/mutant_M.uasset" 141
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/mutant__1__PhysicsAsset.uasset" 142
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/mutant__1_.uasset" 143
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/extra_health_zombie.uasset" 144
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/extra_health_zombie.uasset" 145
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasite_l_starkie__2__Skeleton.uasset" 146
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Running_Crawl.uasset" 147
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/zombie_sound_3.uasset" 148
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/fast_zombie_sound2.uasset" 149
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasiteZombie_diffuse.uasset" 150
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasiteZombie_normal.uasset" 151
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasiteZombie_specular.uasset" 152
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/fast_zom.uasset" 153
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasite_l_starkie__2__PhysicsAsset.uasset" 154
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasite_l_starkie__2_.uasset" 155
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/fast_zombie.uasset" 156
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/fast_zombie.uasset" 157
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Aminations/Zombie_Running.uasset" 158
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/zombie_animation.uasset" 159
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/zombie_sound_2.uasset" 160
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/reg_zombie_sound1.uasset" 161
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Zombie_diffuse.uasset" 162
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Zombie_normal.uasset" 163
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Zombie_specular.uasset" 164
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/Zombie_COL.uasset" 165
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/zombie__1__PhysicsAsset.uasset" 166
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/zombie__1_.uasset" 167
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/AI/regular_zombie.uasset" 168
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Characters/regular_zombie.uasset" 169
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Pickupables/ArmorObjectMaterial.uasset" 170
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Pickupables/HealthObjectMaterial.uasset" 171
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Pickupables/SpeedObjectMaterial.uasset" 172
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Temporary/TopDownCharacter.uasset" 173
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Temporary/TopDownController.uasset" 174
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Temporary/TopDownGameMode.uasset" 175
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/mutant__1__Anim_mixamo_com.uasset" 176
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/mutant__1__Anim_Take_001.uasset" 177
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasitezombie_Material.uasset" 178
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasite_l_starkie__2__Anim_mixamo_com.uasset" 179
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/parasite_l_starkie__2__Anim_Take_001.uasset" 180
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Character/zombie__1__Anim.uasset" 181
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Meshes/Arms/SK_Custom_Arms_Skeleton.uasset" 182
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Bolt_Check.uasset" 183
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Bolt_Check_Montage.uasset" 184
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Textures/Arms/T_Arms_ALB.uasset" 185
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Textures/Arms/T_Arms_M_MSK.uasset" 186
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Textures/Arms/T_Arms_NRM.uasset" 187
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Materials/Arms/M_Arms.uasset" 188
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Textures/Arms/T_Arms_Bloody_ALB.uasset" 189
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Textures/Arms/T_Arms_Bloody_M_MSK.uasset" 190
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Textures/Arms/T_Arms_Bloody_NRM.uasset" 191
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Materials/Arms/M_Arms_Bloody.uasset" 192
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Textures/Arms/T_Arms_Dark_ALB.uasset" 193
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Materials/Arms/M_Arms_Dark.uasset" 194
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Textures/T_Dense_FMP.uasset" 195
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Textures/T_Wobbly_FMP.uasset" 196
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-albedo.uasset" 197
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-albedo_Mat.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 199
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dirt.uasset" 200
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/grass.uasset" 201
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/LANDSCAPE_MATERIAL.uasset" 202
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-albedo.uasset" 203
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-normal2.uasset" 204
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/light-bumped-rock1-albedo.uasset" 205
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-preview.uasset" 206
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/LANDSCAPE_MAT_2.uasset" 207
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/light-bumped-rock1-albedo_Mat.uasset" 208
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-ao.uasset" 209
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-height2.uasset" 210
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-metalness.uasset" 211
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-roughness.uasset" 212
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-albedo.uasset" 213
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Ambient_Occlusion.uasset" 214
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Height.uasset" 215
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Metallic.uasset" 216
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Normal-dx.uasset" 217
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Roughness.uasset" 218
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-albedo.uasset" 219
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-ao.uasset" 220
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-height.uasset" 221
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-metallic.uasset" 222
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-Normal-dx.uasset" 223
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-roughness.uasset" 224
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-albedo.uasset" 225
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-ao.uasset" 226
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-height.uasset" 227
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-metal.uasset" 228
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-roughness.uasset" 229
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-albedo.uasset" 230
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-ao.uasset" 231
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-height.uasset" 232
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-metalness.uasset" 233
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-normal-dx.uasset" 234
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-roughness.uasset" 235
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/darktiles1-ue4/darktiles1_AO.uasset" 236
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/darktiles1-ue4/darktiles1_basecolor.uasset" 237
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/darktiles1-ue4/darktiles1_metallic.uasset" 238
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/darktiles1-ue4/darktiles1_normal-DX.uasset" 239
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/darktiles1-ue4/darktiles1_roughness.uasset" 240
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/DarkTile.uasset" 241
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/STAYING_ALIVE.uasset" 242
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/STAYING_ALIVE_Mat.uasset" 243
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/STAYING_ALIVE_Mat.uasset" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 252
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 253
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Particles/Distance_Blend.uasset" 254
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_Normals_Rotation.uasset" 255
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_NormalStrength.uasset" 256
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_Object_UVs.uasset" 257
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_Triplanar_Mask.uasset" 258
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_Triplanar_UVs.uasset" 259
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_UVs.uasset" 260
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Flat_Normal.uasset" 261
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Spherical_N.uasset" 262
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_White_Linear_Transparent.uasset" 263
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Glass_Master.uasset" 264
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_Glass_Tinted.uasset" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/DeriveTangentBasis.uasset" 266
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 268
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_Bounce_Rough.uasset" 269
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_Switch_Tangent_Basis.uasset" 270
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_MidGray_Linear.uasset" 271
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_White_Color.uasset" 272
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_White_Linear.uasset" 273
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Masked_Master.uasset" 274
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/WIRE/T_Grid02_BC.uasset" 275
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/WIRE/T_Grid02_N.uasset" 276
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/WIRE/T_Grid02_R.uasset" 277
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/WIRE/MI_Grid02.uasset" 278
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_Grid02.uasset" 279
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_Grid03.uasset" 280
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_Grid05.uasset" 281
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_StreetVent.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 283
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 284
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 287
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 288
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 289
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 290
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_POM.uasset" 291
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_Triplanar_POM_UVs.uasset" 292
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Materials/ground_pm.uasset" 293
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Opaque_POM_Master.uasset" 294
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic05.uasset" 295
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic07.uasset" 296
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08.uasset" 297
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic09.uasset" 298
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesStoneware05.uasset" 299
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_Walkway.uasset" 300
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_XTend.uasset" 301
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesConcrete08_BC.uasset" 302
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesConcrete08_H.uasset" 303
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesConcrete08_M.uasset" 304
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesConcrete08_N.uasset" 305
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesConcrete08_R.uasset" 306
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/metalgrid3-ue/metalgrid3_AO.uasset" 307
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/metalgrid3-ue/metalgrid3_basecolor.uasset" 308
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/metalgrid3-ue/metalgrid3_metallic.uasset" 309
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/metalgrid3-ue/metalgrid3_normal-dx.uasset" 310
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/metalgrid3-ue/metalgrid3_roughness.uasset" 311
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/metalgrid3-ue/metalGrid.uasset" 312
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/metalgrid3-ue/metalgrid3_roughness_Mat.uasset" 313
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-albedo.uasset" 314
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-albedo_Mat.uasset" 315
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dirt.uasset" 316
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/grass.uasset" 317
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/LANDSCAPE_MATERIAL.uasset" 318
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-albedo.uasset" 319
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-normal2.uasset" 320
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/light-bumped-rock1-albedo.uasset" 321
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-preview.uasset" 322
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/LANDSCAPE_MAT_2.uasset" 323
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/light-bumped-rock1-albedo_Mat.uasset" 324
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-ao.uasset" 325
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-height2.uasset" 326
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-metalness.uasset" 327
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dry-dirt2-Unreal-Engine-2/dry-dirt2-roughness.uasset" 328
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-albedo.uasset" 329
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Ambient_Occlusion.uasset" 330
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Height.uasset" 331
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Metallic.uasset" 332
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Normal-dx.uasset" 333
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/dusty-ground-gravel1-ue/dusty-ground-gravel1-Roughness.uasset" 334
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-albedo.uasset" 335
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-ao.uasset" 336
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-height.uasset" 337
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-metallic.uasset" 338
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-Normal-dx.uasset" 339
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/light-bumped-rock1-ue/light-bumped-rock1-roughness.uasset" 340
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-albedo.uasset" 341
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-ao.uasset" 342
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-height.uasset" 343
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-metal.uasset" 344
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/mossy-ground1-Unreal-Engine/mossy-ground1-Unreal-Engine/mossy-ground1-roughness.uasset" 345
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-albedo.uasset" 346
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-ao.uasset" 347
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-height.uasset" 348
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-metalness.uasset" 349
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-normal-dx.uasset" 350
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/TESTING_LEVEL_MATERIAL/worn-bumpy-rock-ue/worn-bumpy-rock-roughness.uasset" 351
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Mask_01.uasset" 352
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Decal_Master.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 354
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Glass_RT_Master.uasset" 355
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Opaque_Master.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 357
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Textile_Master.uasset" 358
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Cubemaps/InteriorCubemap.uasset" 359
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 360
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/MaterialFunctions/MF_Bounce_Reflective.uasset" 361
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Blinds_BCO.uasset" 362
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Window_Master.uasset" 363
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Imperfections_02_R.uasset" 364
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Perlin_N.uasset" 365
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Wood_Master.uasset" 366
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Light_Source_Blackbody_Master.uasset" 367
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_2800K.uasset" 368
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_3800K.uasset" 369
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_4200K.uasset" 370
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_5600K.uasset" 371
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_6500K.uasset" 372
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_MidGray_Color.uasset" 373
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Masters/M_Light_Source_Master.uasset" 374
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/Textures/T_Beacon01_d.uasset" 375
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/MI_Neon_Beacon.uasset" 376
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_Neon_Beacon.uasset" 377
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/Textures/T_NeonB_ma.uasset" 378
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/MI_Neon_Blue.uasset" 379
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_Neon_Blue.uasset" 380
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/Textures/T_NeonA_ma.uasset" 381
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/MI_Neon_Fast_Blink.uasset" 382
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_Neon_Fast_Blink.uasset" 383
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/Textures/T_AllColorsGradient_d.uasset" 384
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/MI_Neon_Multicolored.uasset" 385
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_Neon_Multicolored.uasset" 386
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/MI_Neon_Red.uasset" 387
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_Neon_Red.uasset" 388
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/MI_Neon_Slow_Blink.uasset" 389
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_Neon_Slow_Blink.uasset" 390
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/NEONS/MI_Neon_Stroboscope.uasset" 391
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_Neon_Stroboscope.uasset" 392
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Black_Color.uasset" 393
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Black_Linear.uasset" 394
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Hammered01_N.uasset" 395
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Textures/T_Mask_02.uasset" 396
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 397
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 398
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 399
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 400
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 401
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 402
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 403
+"../../../Engine/Content/BasicShapes/Cone.uasset" 404
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 405
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 406
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 407
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 408
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 409
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 410
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 411
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 412
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 413
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 414
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 415
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 416
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 417
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 418
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 419
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 420
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 421
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 422
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 423
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 424
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 425
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 426
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 427
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 428
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 429
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 430
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 431
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 432
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 433
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 434
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 435
+"../../../Engine/Content/EditorResources/S_Note.uasset" 436
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 437
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 438
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 439
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 440
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 441
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 442
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 443
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 444
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 445
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 446
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 447
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 448
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 449
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 450
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 451
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 452
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 453
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 454
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 455
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 456
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 457
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 458
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 459
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 460
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 461
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 462
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 463
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 464
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 465
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 466
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 467
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 468
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 469
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 470
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 471
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 472
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 473
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 474
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 475
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 476
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 477
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 478
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 479
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 480
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 481
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 482
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 483
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 484
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 485
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 486
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 487
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 488
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 489
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 490
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 491
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 492
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 493
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 494
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 495
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 496
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 497
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 498
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 499
+"../../../Engine/Content/EngineResources/Black.uasset" 500
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 501
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 502
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 503
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 504
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 505
+"../../../Engine/Content/EngineSounds/Master.uasset" 506
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 507
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 508
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 509
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 510
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 511
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 512
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 513
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 514
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 515
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 516
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 517
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 518
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 519
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 520
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 521
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 522
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 523
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 524
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 525
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 526
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 527
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 528
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 529
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 530
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 531
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 532
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 533
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 534
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 535
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 536
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 537
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 538
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 539
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 540
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 541
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 542
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 543
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 544
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 545
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 546
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 547
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 548
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 549
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 550
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 551
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 552
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 553
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 554
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 555
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 556
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 557
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 558
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 559
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 560
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 561
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 562
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 563
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Blueprints/BP_FPS_HUD.uasset" 564
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Equip.uasset" 565
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Holster.uasset" 566
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Idle01.uasset" 567
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Idle02.uasset" 568
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Isight_Idle01.uasset" 569
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Isight_Walk_FWD.uasset" 570
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Sprint_FWD.uasset" 571
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Walk_FWD.uasset" 572
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/BP_Arms_RU74_AnimBP.uasset" 573
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/RU74/SK_RU74_Skeleton.uasset" 574
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/BP_RU74_AnimBP.uasset" 575
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Grenade.uasset" 576
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Grenade_Montage.uasset" 577
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Isight_Shoot01.uasset" 578
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Isight_Shoot01_Montage.uasset" 579
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Melee.uasset" 580
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Melee_Montage.uasset" 581
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Empty.uasset" 582
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Empty_Montage.uasset" 583
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload.uasset" 584
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Reload_Montage.uasset" 585
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Shoot01.uasset" 586
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Shoot01_Montage.uasset" 587
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Shoot02.uasset" 588
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_Arms_RU74_Shoot02_Montage.uasset" 589
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_RU74_Reload_Empty.uasset" 590
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_RU74_Reload_Empty_Montage.uasset" 591
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_RU74_Reload.uasset" 592
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_RU74_Reload_Montage.uasset" 593
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Emitters/AR74/P_RU74_Muzzleflash.uasset" 594
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Particles/Emitters/AR74/P_RU74_ShellEject.uasset" 595
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_RU74_Shoot01.uasset" 596
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Animations/RU74/A_RU74_Shoot01_Montage.uasset" 597
+"../../../Engine/Content/EngineLightProfiles/Complex_IES.uasset" 598
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/FPS_Arms/Meshes/Arms/SK_Custom_Arms.uasset" 599
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Materials/RU74/M_RU74_Body.uasset" 600
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Mag_ALB.uasset" 601
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Mag_M_MSK.uasset" 602
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Mag_NRM.uasset" 603
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Materials/RU74/M_RU74_Mag.uasset" 604
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Stock_ALB.uasset" 605
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Stock_M_MSK.uasset" 606
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Textures/RU74/T_RU74_Stock_NRM.uasset" 607
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Materials/RU74/M_RU74_Stock.uasset" 608
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/RU74/SK_RU74_Physics.uasset" 609
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/RU74/SK_RU74.uasset" 610
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Blueprints/RU74/BP_RU74_Character.uasset" 611
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.uasset" 612
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Maps/ExampleMap_BuiltData.uasset" 613
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 614
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Maps/ExampleMap.umap" 615
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Maps/Overview_BuiltData.uasset" 616
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/Ammunition/SM_556x45_Empty.uasset" 617
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/Rifle/SK_Rifle_NoAddons.uasset" 618
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/Rifle/SM_Rifle_CarryHandle.uasset" 619
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/Rifle/SM_Rifle_Muzzle.uasset" 620
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/RU74/SK_RU74_NoAddons.uasset" 621
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Meshes/RU74/SM_RU74_Muzzle.uasset" 622
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/FPS_Assault_Pack/Maps/Overview.umap" 623
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Materials/leaderboard_back_ground.uasset" 624
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/leaderboard_HUD/leaderboard_widget.uasset" 625
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/leaderboard_HUD/leaderboard_hud.uasset" 626
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/leaderboard_HUD/leader_board.uasset" 627
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/leaderboard_track.uasset" 628
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/leaderboard_music.uasset" 629
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/leaderboard.umap" 630
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" 631
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/level_1_BuiltData.uasset" 632
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Geometry/Meshes/1M_Cube.uasset" 633
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 634
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/level_1.umap" 635
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/main_menu_track.uasset" 636
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/menu_music.uasset" 637
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/Menu.umap" 638
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Spawners/EnemyAISpawner.uasset" 639
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TwinmotionMaterials/Materials/Emissive/MI_Neon_White.uasset" 640
+"../../../Engine/Content/BasicShapes/Cube.uasset" 641
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Pickupables/ArmorObject.uasset" 642
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Pickupables/HealthObject.uasset" 643
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Blueprints/Pickupables/SpeedObject.uasset" 644
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_BuiltData.uasset" 645
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/futuristic-panels1-ue/futuristic-panels1-albedo.uasset" 646
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/futuristic-panels1-ue/futuristic-panels1-ao.uasset" 647
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/futuristic-panels1-ue/futuristic-panels1-height.uasset" 648
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/futuristic-panels1-ue/futuristic-panels1-metallic.uasset" 649
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/futuristic-panels1-ue/futuristic-panels1-normal-dx.uasset" 650
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/futuristic-panels1-ue/futuristic-panels1-roughness.uasset" 651
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/futuristic-panels1-ue/futuristic_material.uasset" 652
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesCeramic08_BC.uasset" 653
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesCeramic08_H.uasset" 654
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesCeramic08_M.uasset" 655
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesCeramic08_N.uasset" 656
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/T_TilesCeramic08_R.uasset" 657
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL_MATERIAL/MI_TilesCeramic08/MI_TilesCeramic08.uasset" 658
+"../../../Engine/Content/BasicShapes/Plane.uasset" 659
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/final_level.uasset" 660
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/audio/final_level_music.uasset" 661
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/FINAL_LEVEL.umap" 662
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/sample_Map_1_BuiltData.uasset" 663
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 664
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/futuristic-panels1-ue/futuristic-panels1-albedo.uasset" 665
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/futuristic-panels1-ue/futuristic-panels1-ao.uasset" 666
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/futuristic-panels1-ue/futuristic-panels1-height.uasset" 667
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/futuristic-panels1-ue/futuristic-panels1-metallic.uasset" 668
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/futuristic-panels1-ue/futuristic-panels1-normal-dx.uasset" 669
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/futuristic-panels1-ue/futuristic-panels1-roughness.uasset" 670
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/futuristic-panels1-ue/futuristic_material.uasset" 671
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 672
+"../../../../../../Users/Rios/Desktop/CSULB courses/CECS 343/CECS_343_project/Staying_Alive/Content/TopDownBP/Maps/ZEE_MATERIALS/sample_Map_1.umap" 673
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 674
+"../../../Engine/Content/Maps/Entry.umap" 675
